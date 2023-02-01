@@ -1,6 +1,4 @@
 # all-pairs-shortest-paths
-CUDA implementation of the Floyd-Warshall algorithm
-
 
 ECL-APSP is an all-pairs-shortest-paths CUDA implementation of the Floyd-Warshall algorithm. As far as we know, it is faster than the fastest such codes from the literature. It operates on graphs stored in binary CSR format.
 
